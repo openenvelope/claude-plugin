@@ -1,0 +1,21 @@
+{
+  "name": "Envelope",
+  "slug": "envelope",
+  "tagline": "Design and generate AI agent teams with the open .envelope.json standard",
+  "description": "Envelope is the open standard for AI agent teams. This skill teaches Claude Code to generate valid .envelope.json team definitions — multi-agent hierarchies with access policies, human-in-the-loop gates, and cron schedules — from a plain-English description. The output is ready to deploy via the Envelope UI or API.",
+  "category": "productivity",
+  "tags": ["agents", "ai-teams", "automation", "workflow"],
+  "author": {
+    "name": "Envelope",
+    "url": "https://openenvelope.org",
+    "email": "hello@openenvelope.org"
+  },
+  "links": {
+    "homepage": "https://openenvelope.org",
+    "docs": "https://openenvelope.org/api-docs",
+    "mcp": "https://openenvelope.org/mcp",
+    "schema": "https://schema.openenvelope.org/team/v1.json",
+    "npm": "https://www.npmjs.com/package/@openenvelope/schema"
+  },
+  "icon": "https://openenvelope.org/logo.png"
+}
