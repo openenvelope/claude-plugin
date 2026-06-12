@@ -13,7 +13,7 @@
   "links": {
     "homepage": "https://openenvelope.org",
     "docs": "https://openenvelope.org/api-docs",
-    "mcp": "https://openenvelope.org/mcp",
+    "mcp": "https://mcp.openenvelope.org/api/mcp",
     "schema": "https://schema.openenvelope.org/team/v1.json",
     "npm": "https://www.npmjs.com/package/@openenvelope/schema"
   },
