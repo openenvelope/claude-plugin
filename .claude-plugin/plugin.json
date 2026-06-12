@@ -1,0 +1,13 @@
+{
+  "name": "envelope",
+  "displayName": "Envelope",
+  "version": "1.0.0",
+  "description": "Design and generate .envelope.json team definition files — the open standard for AI agent teams. Describe the team you need and Claude Code will produce a schema-valid file ready to deploy on Envelope.",
+  "author": "Envelope <hello@openenvelope.org>",
+  "homepage": "https://openenvelope.org",
+  "repository": "https://github.com/openenvelope/claude-plugin",
+  "skills": [
+    "skills/envelope-team/SKILL.md"
+  ],
+  "keywords": ["agents", "ai-teams", "envelope", "workflow", "automation"]
+}
