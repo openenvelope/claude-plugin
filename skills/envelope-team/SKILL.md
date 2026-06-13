@@ -1,6 +1,6 @@
 ---
 name: envelope-team
-category: ai-agents
+category: ai-ml
 description: Design and generate .envelope.json AI agent team definitions — the open standard for multi-agent teams with hierarchy, access policies, human-in-the-loop gates, and cron schedules.
 ---
 
